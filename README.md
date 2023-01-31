@@ -25,3 +25,9 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=0077B5
 [linkedin-url]: https://www.linkedin.com/in/mishael-keidar
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+<p>Send me a message on Gmail</p>
+
+[gmail-shield]: https://img.shields.io/badge/-Gmail-lightred.svg?style=flat-square&logo=gmail&colorB=#ff6961
+[gmail-url]: mailto:keidarmishael@gmail.com
+[![Gmail][gmail-shield]][gmail-url]
