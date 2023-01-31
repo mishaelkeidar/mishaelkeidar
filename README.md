@@ -14,6 +14,7 @@
   <li>Next.js</li>
   <li>Node.js</li>
   <li>Express</li>
+  <li>NםSQL</li>
   <li>MongoDB</li>
   <li>Git</li>
 </ul>
