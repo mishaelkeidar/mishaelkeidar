@@ -11,7 +11,9 @@
   <li>CSS</li>
   <li>JavaScript</li>
   <li>React.js</li>
+  <li>Next.js</li>
   <li>Node.js</li>
+  <li>Express</li>
   <li>MongoDB</li>
   <li>Git</li>
 </ul>
