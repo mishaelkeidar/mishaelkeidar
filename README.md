@@ -1,8 +1,6 @@
-<h1>Full-Stack Developer</h1>
-
 <h3>About Me</h3>
 
-<p>I am a full-stack developer with a passion for creating beautiful, functional, and efficient web applications. I am eager to continue growing my skills and contribute to impactful projects.</p>
+<p>I am a junior full-stack developer with a passion for creating beautiful, functional, and efficient web applications. I am eager to continue growing my skills and contribute to impactful projects.</p>
 
 <h3>Skills</h3>
 
