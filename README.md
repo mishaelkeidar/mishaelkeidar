@@ -1,4 +1,5 @@
  <h1>Hi there 👋</h1>
+ [![LinkedIn][linkedin-shield]][linkedin.com/in/mishael-keidar]
 
 <!--
 **mishaelkeidar/mishaelkeidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
