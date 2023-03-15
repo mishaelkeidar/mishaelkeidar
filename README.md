@@ -1,6 +1,7 @@
 ![MasterHead](https://www.bitsbyamel.com/387e4f52081bfebd6ba96d9d784e9f94/javascript_gif.gif)
 <h1 align="center">Hi 👋, I'm mishael keidar</h1>
 <h3 align="center">A passionate full stack developer from Israel</h3>
+<p align="center">Please consider giving a star! ⭐️</p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 - 📫 How to reach me **keidarmishael@gmail.com**
