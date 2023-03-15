@@ -1,4 +1,5 @@
-![MasterHead](https://www.bitsbyamel.com/387e4f52081bfebd6ba96d9d784e9f94/javascript_gif.gif)
+<img src="https://user-images.githubusercontent.com/116832376/225464088-d6982471-780c-4226-a3ad-6246ac20a7e2.gif" width= 100% align="center">
+
 <h1 align="center">Hi 👋, I'm mishael keidar</h1>
 <h3 align="center">A passionate full stack developer from Israel</h3>
 <p align="center">Please consider giving a star! ⭐️</p>
