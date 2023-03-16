@@ -8,9 +8,10 @@
 - 📫 How to reach me **keidarmishael@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mishael-keidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishael-keidar" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href='https://www.linkedin.com/in/mishael-keidar/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  /></a>
+  <a href='https://www.facebook.com/profile.php?id=100090967129114'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" width="52" alt="facebook logo"  /></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
