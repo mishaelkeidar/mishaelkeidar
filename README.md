@@ -29,6 +29,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
 </div>
 
+<h3 align="left">Projects:</h3>
+
+* <a href='https://github.com/mishaelkeidar/portfolio'>Portfolio</a>
+* <a href='https://github.com/mishaelkeidar/music-player'>Music Player</a>
+* <a href='https://github.com/mishaelkeidar/YouTube'>You Tube</a>    
+* <a href='https://github.com/mishaelkeidar/dev_chatAI'>Dev_chatAI</a> 
+* <a href='https://github.com/mishaelkeidar/dashboard'>Dashboard</a> 
+* <a href='https://github.com/mishaelkeidar/react-smarthouse'>Smart House</a> 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishaelkeidar&show_icons=true&locale=en&layout=compact" alt="mishaelkeidar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishaelkeidar&show_icons=true&locale=en" alt="mishaelkeidar" /></p>
